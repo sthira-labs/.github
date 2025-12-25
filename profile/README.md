@@ -1,5 +1,16 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sthira-labs/.github/main/profile/logo.png" width="140" />
+  <span style="
+    display:inline-block;
+    background: rgba(255,255,255,0.25);
+    padding: 12px;
+    border-radius: 16px;
+  ">
+    <img
+      src="https://raw.githubusercontent.com/sthira-labs/.github/main/profile/logo.png"
+      width="140"
+      style="display:block;"
+    />
+  </span>
 </p>
 
 # Sthira Labs
